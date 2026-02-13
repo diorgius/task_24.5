@@ -1,0 +1,34 @@
+.div-services {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.img-services {
+    width: 50%;
+}
+
+.div-title {
+    padding: 2rem 0 2rem 0;
+    font-size: 2rem;
+    color: #ff7f50;
+    text-transform: uppercase;
+}
+
+.div-description {
+    padding: 1rem 10rem 2rem 10rem;
+}
+
+.p-description, .ul-description {
+    font-size: 1.5rem;
+    color: #ff7f50;
+    line-height: 2.5rem;
+}
+
+.p-small-header {
+    text-align: center;
+    padding: 1rem 0 1rem 0;
+    font-size: 1.5rem;
+    color: #ff7f50;
+    text-transform: uppercase;
+}

@@ -1,0 +1,33 @@
+.div-contacts {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.div-title {
+    padding: 2rem 0 2rem 0;
+    font-size: 2rem;
+    color: #ff7f50;
+    text-transform: uppercase;
+}
+
+.div-address {
+    text-align: center;
+    padding: .5rem 0 1rem 0;
+    font-size: 1.5rem;
+    color: #ff7f50;
+}
+
+.div-address a {
+    color: #ff7f50;
+    text-decoration: none;
+}
+
+.div-address a:hover {
+    color: #f1d095;
+    font-size: 101%;
+}
+
+.div-map {
+    padding: 1rem 0 2rem 0;
+}

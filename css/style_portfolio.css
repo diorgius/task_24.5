@@ -1,0 +1,16 @@
+.div-portfolio {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.div-title {
+    padding: 2rem 0 2rem 0;
+    font-size: 2rem;
+    color: #ff7f50;
+    text-transform: uppercase;
+}
+
+.img-portfolio {
+    width: 24%;
+}
