@@ -14,3 +14,35 @@
 .img-portfolio {
     width: 24%;
 }
+
+.div-info {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1rem;
+    padding: 2rem 10rem 2rem 10rem;
+}
+
+.p-year {
+    font-size: 1.3rem;
+    font-weight: bolder;
+    color: #ff7f50;
+}
+
+.p-site {
+    font-size: 1.3rem;
+    color: #ff7f50;
+    border-bottom: .1rem solid #ff7f50;
+}
+
+.p-descript {
+    font-size: 1rem;
+    color: #ff7f50;
+}
+
+.hr-line  {
+    border: 0;
+    background-color: #ff7f50;
+    width: 90%;
+    height: .2rem;
+}

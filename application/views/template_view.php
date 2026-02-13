@@ -13,6 +13,7 @@
     <link rel="stylesheet" href="/css/style_comments.css">
     <link rel="stylesheet" href="/css/style_about.css">
     <link rel="stylesheet" href="/css/style_contacts.css">
+    <link rel="stylesheet" href="/css/style_order.css">
     <link rel="stylesheet" href="/css/style_404.css">
     <title>Супер Пупер</title>
 </head>

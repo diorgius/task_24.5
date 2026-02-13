@@ -1,0 +1,14 @@
+.div-order {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.div-title {
+    width: 80%;
+    text-align: center;
+    padding: 2rem 0 2rem 0;
+    font-size: 2rem;
+    color: #ff7f50;
+    text-transform: uppercase;
+}
